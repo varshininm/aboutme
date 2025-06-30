@@ -1,8 +1,10 @@
-# Hi there !! 
+## Hi there !! 
 
-# Varshini, DevOps Engineer
+#### Varshini, DevOps Engineer
 
-## 🛠️ Tools & Technologies
+<img src="https://media.licdn.com/dms/image/v2/C4D12AQFsIhMFOJVs0Q/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1609097444281?e=1756339200&v=beta&t=Jlx6-IeiVAhOhX-on6uSsTmFLYIV7Xfhn8j-_UIZU6E" alt="Description of gif" width="300" height="200">
+
+#### 🛠️ Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
@@ -18,7 +20,7 @@
 ---
 
 
-## 💻 Operating Systems
+#### 💻 Operating Systems
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
