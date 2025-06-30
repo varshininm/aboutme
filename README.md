@@ -1,21 +1,13 @@
-# Hello there!! 
+## Tools & Technologies
+- ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg) **Kubernetes** — Container orchestration platform.
+- ![OpenShift](https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg) **OpenShift (OCP)** — Enterprise Kubernetes by Red Hat.
+- ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) **Docker** — Containerization platform.
+- ![Argo CD](https://icon.icepanel.io/Technology/svg/Argo-CD.svg) **Argo CD** — GitOps continuous delivery tool.
+- ![Grafana](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg) **Grafana** — Monitoring and visualization.
+- ![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg) **Jenkins** — CI/CD automation server.
+- ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) **AWS** — Cloud services platform.
+- ![GitLab](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg) **GitLab** — Version control and DevOps platform.
 
-### Tools and Technologies
-
-![K8S](https://img.shields.io/badge/kubernetes-argocd)
-![OCP](https://www.svgrepo.com/show/376340/openshift.svg)
-![Docker](https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg)
-![ArgoCD](https://www.opsmx.com/wp-content/uploads/2022/07/Argo-1-e1630327305635-1.png)
-![Grafana](https://www.svgrepo.com/show/448228/grafana.svg)
-![Jenkins](https://www.svgrepo.com/show/353929/jenkins.svg)
-![Aws](https://www.svgrepo.com/show/376356/aws.svg)
-![Gitlab](https://www.svgrepo.com/show/448226/gitlab.svg)
-
-### Operating Systems
-![Linux](https://img.icons8.com/?size=192&id=cvzmaEA4kC0o&format=png)
-![Windows](https://img.icons8.com/?size=192&id=cvzmaEA4kC0o&format=png)
-
-
-
-
-
+## Operating Systems
+- ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) **Linux** — Experienced in Linux environments.
+- ![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg) **Windows** — Experienced in Windows OS.
