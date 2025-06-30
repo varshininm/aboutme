@@ -2,7 +2,7 @@
 
 ### Tools and Technologies
 
-![K8S](https://www.svgrepo.com/show/448233/kubernetes.svg)
+![K8S](https://img.shields.io/badge/kubernetes-argocd)
 ![OCP](https://www.svgrepo.com/show/376340/openshift.svg)
 ![Docker](https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg)
 ![ArgoCD](https://www.opsmx.com/wp-content/uploads/2022/07/Argo-1-e1630327305635-1.png)
