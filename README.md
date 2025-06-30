@@ -26,3 +26,7 @@ I build pipelines, ship containers, wrangle cloud infra, and occasionally talk t
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows-grey?logo=windows&logoColor=white" alt="Windows" />
 </p>
+
+#### 📫 Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/in/varshini-narakala)
