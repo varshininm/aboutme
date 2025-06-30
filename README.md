@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
-  <img src="https://www.svgrepo.com/show/354143/openshift.svg" alt="OpenShift" />
+  <img src="https://img.shields.io/badge/OpenShift-grey?logo=redhatopenshift&logoColor=white" alt="OpenShift" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/ArgoCD-grey?logo=argo&logoColor=white" alt="ArgoCD" />
   <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" />
@@ -10,6 +10,8 @@
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />
 </p>
+
+---
 
 ---
 
